@@ -1,0 +1,11 @@
+body {
+  background-color: indigo;
+  background-attachment: fixed;
+}
+
+#pellet-count{
+	position: absolute;
+	top: 80%;
+	background-color: gray;
+	padding: 20px;
+}
