@@ -1,5 +1,5 @@
 # Build
-
+open the pieman.html in the browser to play the game.
 
 # pie-man-game
 
