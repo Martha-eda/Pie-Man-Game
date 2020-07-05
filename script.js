@@ -258,5 +258,5 @@ class Pellet {
   }
 }
 
-pie = new Pieman(10, 100, "style/pie.gif");
+pie = new Pieman(10, 100, "pie.gif");
 pellet = new Pellet(COLORS[Math.floor(Math.random() * sizeColor)], 100000);
